@@ -1,0 +1,43 @@
+img{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+.cat{
+    display: inline-block;
+    background-color: rgb(77, 255, 225);
+    width: 400px;
+    height: 400px;
+    
+}
+
+#cat{
+    float: left;
+}
+
+.dog{
+    display: inline-block;
+    background-color: #ff9a60;
+    width: 400px;
+    height: 400px;
+    float: right;
+}
+
+#dog{
+    float: left;
+}
+
+footer{
+    background-color: #a200ff;
+    text-align: center;
+    margin-top: 10px;
+    clear: both;
+}
+
+.first-paragraph{
+    font-size: 20px;
+}
+
+.second-paragraph{
+    font-size: 20px;
+}
